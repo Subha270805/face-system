@@ -1,0 +1,9 @@
+{
+  "cameras": [
+    {"id": "cam1", "source": 0},
+    {"id": "cam2", "source": 0},
+    {"id": "cam3", "source": 0},
+    {"id": "cam4", "source": 0},
+    {"id": "cam5", "source": 0}
+  ]
+}
